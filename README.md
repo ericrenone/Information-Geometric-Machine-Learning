@@ -79,6 +79,7 @@ By decoupling paths, DPFAE achieves **fast error correction without amplifying n
 - This is a **structural analogy** — not a literal PDE or multi-scale computation.  
 
 > Robbins–Monro: convergence in time
+
 > Induction-on-Scales: stability in space.
 
 ---
