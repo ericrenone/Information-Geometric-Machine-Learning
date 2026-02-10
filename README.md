@@ -78,7 +78,8 @@ By decoupling paths, DPFAE achieves **fast error correction without amplifying n
 - Geometric projection prevents **directional collapse** (Induction-on-Scales analogy).  
 - This is a **structural analogy** — not a literal PDE or multi-scale computation.  
 
-> Summary: RM handles convergence in time; Induction-on-Scales handles stability in space.
+> Robbins–Monro: convergence in time
+> Induction-on-Scales: stability in space.
 
 ---
 
