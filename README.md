@@ -107,7 +107,7 @@ The **Dual-Path Architecture** separates **fast, reactive updates** from **slow,
 * **Harmonic Smoothing** – Local smoothing and induction-on-scales prevent overfitting.  
 * **Hardware-Ready** – Fully compatible with FPGA, ASIC, and neuromorphic designs.  
 * **Provable Guarantees** – Boundedness, monotonic descent, and predictable variance reduction.  
-* **Linear Complexity** – Achieves second-order curvature approximation with Kronecker factorization without $O(n^3)$ cost.  
+* **Linear Complexity** – Achieves second-order curvature approximation with KFAC without $O(n^3)$ cost.  
 
 ---
 
