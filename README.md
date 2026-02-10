@@ -110,13 +110,8 @@ By decoupling the paths, the system achieves **fast error correction** without a
 - **Provable Guarantees** – Boundedness, monotonic descent, and predictable variance reduction.  
 - **Linear Complexity** – Fully element-wise updates; no matrix inversion needed.
 
-> Provably stable, variance-controlled, and hardware-efficient **online learning primitive**.
 
----
+## Provably stable, variance-controlled, and hardware-efficient **online learning primitive**.
 
-## 🔗 References
 
-1. Sims, C. A. (2003). *Implications of rational inattention*. Journal of Monetary Economics.  
-2. Čencov, N. N. (1982). *Statistical Decision Rules and Optimal Inference*.  
-3. Martens, J., & Grosse, R. (2015). *Optimizing neural networks with Kronecker-factored approximate curvature*. ICML.  
 
